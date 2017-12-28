@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rebus.PostgreSql": {
+      "commandName": "Executable",
+      "executablePath": "C:\\dev\\src\\rebus-playground\\rebus.publisher\\bin\\Debug\\net461\\rebus.publisher.exe"
+    }
+  }
+}
